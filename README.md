@@ -38,6 +38,7 @@ npm -v
 ```
 
 4️⃣ Add all 126 Packages
+
 Run Only One Command if 1st one is worked then don't used 2nd one
 ```
 npm i -g rivalz-node-cli
@@ -52,6 +53,8 @@ sudo npm i -g rivalz-node-cli
 rivalz run
 ```
 👉Put ur Metamask Address (put same add u used in website also & V1) 
+
 👉Then Select ur Drive(SSD/HDD) > Then Give Storage 
+
 👉Then Validate & Synced Succesfully > Then check ur all Status in Dashboard in (My Client V2)
 
