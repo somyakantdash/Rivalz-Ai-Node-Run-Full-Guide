@@ -10,7 +10,48 @@
    
    👉Then Open File > Put ur Metamask Address (put same add u used in website also) > Then Give Storage > Then Start the Node > Then check ur all Status in Dashboard
 
-   ![Put ur Address](https://github.com/user-attachments/assets/b58dd6eb-3874-47fa-9e23-b9edf1eecfb6)
+ ![Put ur Address](https://github.com/user-attachments/assets/b58dd6eb-3874-47fa-9e23-b9edf1eecfb6)
 
+## Rivalz Ai V2 Client Node Run
 
-   ## Rivalz Ai V2 Client Node Run
+![Screenshot 2024-08-10 093026](https://github.com/user-attachments/assets/706a548e-3dc3-4427-bbe5-7087a84f3d9f)
+
+1️⃣Install WSL - https://learn.microsoft.com/en-us/windows/wsl/install#install-wsl-command
+
+2️⃣Put One by One Command & Run in WSL
+```
+sudo apt update
+```
+```
+curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
+```
+```
+sudo apt install -y nodejs
+```
+
+3️⃣Check NodeJs & NPM version it's showing or not (If not Showing then install again)
+```
+node -v
+```
+```
+npm -v
+```
+
+4️⃣Add all 126 Packages
+Run Only One Command if 1st one is worked then don't used 2nd one
+```
+npm i -g rivalz-node-cli
+```
+OR
+```
+sudo npm i -g rivalz-node-cli
+```
+
+5️⃣Run Rivalz V2
+```
+rivalz run
+```
+👉Put ur Metamask Address (put same add u used in website also & V1) 
+👉Then Select ur Drive(SSD/HDD) > Then Give Storage 
+👉Then Validate & Synced Succesfully > Then check ur all Status in Dashboard in (My Client V2)
+
