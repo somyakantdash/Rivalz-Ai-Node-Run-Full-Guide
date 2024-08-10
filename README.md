@@ -16,9 +16,9 @@
 
 ![Screenshot 2024-08-10 093026](https://github.com/user-attachments/assets/706a548e-3dc3-4427-bbe5-7087a84f3d9f)
 
-1️⃣Install WSL - https://learn.microsoft.com/en-us/windows/wsl/install#install-wsl-command
+1️⃣ Install WSL - https://learn.microsoft.com/en-us/windows/wsl/install#install-wsl-command
 
-2️⃣Put One by One Command & Run in WSL
+2️⃣ Put One by One Command & Run in WSL
 ```
 sudo apt update
 ```
@@ -29,7 +29,7 @@ curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
 sudo apt install -y nodejs
 ```
 
-3️⃣Check NodeJs & NPM version it's showing or not (If not Showing then install again)
+3️⃣ Check NodeJs & NPM version it's showing or not (If not Showing then install again)
 ```
 node -v
 ```
@@ -37,7 +37,7 @@ node -v
 npm -v
 ```
 
-4️⃣Add all 126 Packages
+4️⃣ Add all 126 Packages
 Run Only One Command if 1st one is worked then don't used 2nd one
 ```
 npm i -g rivalz-node-cli
@@ -47,7 +47,7 @@ OR
 sudo npm i -g rivalz-node-cli
 ```
 
-5️⃣Run Rivalz V2
+5️⃣ Run Rivalz V2
 ```
 rivalz run
 ```
