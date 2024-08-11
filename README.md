@@ -66,7 +66,8 @@ rivalz run
 ```
 rivalz run
 ```
-![Screenshot 2024-08-08 061137](https://github.com/user-attachments/assets/64d2c10f-cc3c-4f3b-a141-e663cb91167a)
+![Screenshot 2024-08-11 101024](https://github.com/user-attachments/assets/86d0e2bd-1c99-4e71-88aa-7a5135768ac1)
+
 
 
 
