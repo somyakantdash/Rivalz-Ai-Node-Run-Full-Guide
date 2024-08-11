@@ -48,7 +48,7 @@ OR
 sudo npm i -g rivalz-node-cli
 ```
 
-5️⃣ Run Rivalz V2
+5️⃣ Run Rivalz V2 (Must open in Background WSL also)
 ```
 rivalz run
 ```
@@ -57,4 +57,16 @@ rivalz run
 👉Then Select ur Drive(SSD/HDD) > Then Give Storage 
 
 👉Then Validate & Synced Succesfully > Then check ur all Status in Dashboard in (My Client V2)
+
+🔶For Next Day Run This Command
+
+#1 Open WSL 1st
+
+#2 Then Run this Command (Must open in Background WSL also)
+```
+rivalz run
+```
+![Screenshot 2024-08-08 061137](https://github.com/user-attachments/assets/64d2c10f-cc3c-4f3b-a141-e663cb91167a)
+
+
 
