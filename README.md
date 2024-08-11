@@ -58,7 +58,8 @@ rivalz run
 
 👉Then Validate & Synced Succesfully > Then check ur all Status in Dashboard in (My Client V2)
 
-🔶For Next Day Run This Command
+
+## 🔶For Next Day Run This Command
 
 #1 Open WSL 1st
 
